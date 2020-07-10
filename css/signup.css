@@ -1,0 +1,58 @@
+.bg{
+	background-image: url('images/bokeh.jpg');
+}
+
+.form{
+	color: white;
+	border: 1px solid #fff;
+	padding: 50px 60px;
+	margin-top:10vh;
+	margin-bottom: 10vh;
+	-webkit-box-shadow: 0px 4px 71px 6px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 4px 71px 6px rgba(0,0,0,0.75);
+	box-shadow: 0px 4px 71px 6px rgba(189,189,189,1);
+}
+
+.form h2{
+	text-align: center;
+}
+.typo{
+	text-align: center;
+}
+
+}
+.footer p{
+               font-family: "Trebuchet MS", Helvetica, sans-serif; 
+              font-size: 20px;
+            }
+            .footer{
+              background-color:#ffffe0 ;
+              opacity: 0.5;
+              text-align: center;
+              padding:5px;
+              margin-top: 10px;
+
+            }
+             
+             .facebook{
+              padding: 0px;
+              width: 40px;
+              text-decoration: none;
+             }
+
+             .facebook:hover{
+              opacity: 0.7;  
+             }
+             .facebook{
+              color: white;
+             }
+
+             .insta{
+              padding: opx;
+              width: 40px;
+              text-decoration: none;
+             }
+             .insta:hover{
+              opacity: 0.7;
+              color: white;
+             }
